@@ -22,3 +22,11 @@ code {
   margin-right: 10px;
   margin-top: -4px;
 }
+
+.row__action--btns {
+  display: flex;
+}
+
+.cursor__pointer {
+  cursor: pointer;
+}

@@ -3,7 +3,7 @@ import { Spinner, Button } from "react-bootstrap";
 const SpinnerCustom = () => {
   return (
     <div>
-      <Button variant="primary" disabled>
+      <Button variant="dark" disabled>
         <Spinner
           as="span"
           animation="grow"
